@@ -1,0 +1,8 @@
+# hugeleap-Qa-sample-2
+As a new user of the platform,
+I want to be able to register for an account
+So that I can access the platform's features and services.
+
+After user registration complete we also ewant to test the login and logout feature.   
+
+NOTE: Please make sure you add basic validation for the password.
