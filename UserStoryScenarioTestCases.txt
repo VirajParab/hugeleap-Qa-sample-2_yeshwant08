@@ -1,1 +1,14 @@
 // Please write your ACs here.
+testCaseNo  TestModule  Testdescription
+1           Registration Verify use is able to get the user registration form after clicking on registration form
+2                        Verify user is able to fill all the detial in registration form successfully
+3                        Verify user should not able to registration from untill filled all the mandatory filled
+4                        Verify user should get the expected error message on incomplete form
+5                        Verify user should not give any symbol or special charater in name .
+6            Login       Verify user is able to login with valid credential
+7                        Verify user is able to login with invalid username and valid password
+8                        Verify user is able to login with invalid password and valid username
+9                        Verify user is able to login with empty username and password
+10                        Verify user is able to get valid error message with invalid username and password
+11            Home       Verify user is able to see the valid or expected dashboard or home screen after login with username
+12           Logout      Verify user get logged out and get the main page
