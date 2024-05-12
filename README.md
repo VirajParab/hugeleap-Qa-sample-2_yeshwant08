@@ -7,3 +7,7 @@ TASK 1:
     Make Sure you cover every aspect of the story.
     Please do not repeat the ACs.
 
+TASK 2:
+  Please Hit URL: https://0ffc-49-15-232-239.ngrok-free.app
+ Go through Register and login userv flow.
+  Please write  automation test for the same and push in the same repo 
